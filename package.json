@@ -1,0 +1,18 @@
+{
+  "name": "download_youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Johnny IV Young Ospino",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "uuid": "^3.3.3",
+    "youtube-dl": "^2.0.1"
+  }
+}
